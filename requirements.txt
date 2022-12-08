@@ -49,7 +49,7 @@ ndg-httpsclient==0.3.0
 # Python markdown extensions for comment emails
 git+git://github.com/CenterForOpenScience/mdx_del_ins.git
 
-certifi==2020.12.5
+certifi==2022.12.7
 sendgrid==1.5.13
 
 # avoid dbus-python requirement from secretstorage dependency
